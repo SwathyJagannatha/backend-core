@@ -1,1 +1,2 @@
-"This is another repo check , testing in progress!!" 
+"Homework repository"
+"Week 2 - day 1 assignment!!"
